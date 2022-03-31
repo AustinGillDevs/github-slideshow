@@ -1,6 +1,4 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+---Crazy new text
+for my test file
+hello world
+Git hub training
