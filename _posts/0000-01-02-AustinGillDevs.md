@@ -1,5 +1,6 @@
----Crazy new text
-for my test file
-hello world
-Git hub training
-new line
+---
+layout: slide
+title:"Welcome to our second slide!"
+---
+Random Text
+Use the left arrow to go back
